@@ -1,0 +1,8 @@
+---
+channel: stable
+addons:
+  dynu:
+    repository: azgooon/dynu
+    target: dynu
+    image: ghcr.io/azgooon/dynu/{arch}
+
