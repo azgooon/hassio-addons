@@ -2,7 +2,7 @@
 channel: stable
 addons:
   dynu:
-    repository: azgooon/dynu
+    repository: azgooon/hassio-dynu
     target: dynu
-    image: ghcr.io/azgooon/dynu/{arch}
+    image: ghcr.io/azgooon/hassio-dynu/{arch}
 
