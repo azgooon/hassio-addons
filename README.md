@@ -14,7 +14,7 @@ https://github.com/azgooon/hassio-addons
 
 ## Add-ons provided by this repository
 
-### &#10003; [dynu][addon-dynu]
+### &#10003; [dynu]
 
 ![Latest Version][dynu-version-shield]
 ![Supports armhf Architecture][dynu-armhf-shield]
